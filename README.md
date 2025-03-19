@@ -1,4 +1,3 @@
-<h1>PERUANO</h1>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Danny79k&show_icons=true&theme=radical"
