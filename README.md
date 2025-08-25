@@ -1,5 +1,4 @@
 ## 📊 GitHub Stats
-| -- | -- |
 | <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Danny79k&show_icons=true&theme=radical"
